@@ -1,0 +1,17 @@
+li a{
+    color: green;
+}
+
+body{
+    position: relative;
+}
+div{
+    position:absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: blue no-repeat;
+    z-index: -1000;
+    opacity: 0.5;
+}
