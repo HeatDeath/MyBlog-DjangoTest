@@ -1,1 +1,1 @@
-# 一个基于MOOC网新手教程的blog
+# 一个基于慕课网Django新手教程的blog
